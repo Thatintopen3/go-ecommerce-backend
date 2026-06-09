@@ -1,3 +1,5 @@
+# go-ecommerce-backend
 
+Microservices architecture for a scalable E-commerce platform using Go and gRPC.
 
-*Last updated: October 2024*
+Built with modern technologies in the Microservices niche.
